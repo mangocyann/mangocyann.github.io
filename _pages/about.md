@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am  a recent [Peking University](https://english.pku.edu.cn/) graduate, and currently a research assistant at [Aalto University](https://www.aalto.fi/en), Department of Computer Science. My research interests lie at the intersection of Natural Language Processing, Machine Learning, and Data Mining with mental health, behavioral, and societal applications. 
 
-The ubiquity of the internet has enabled the collection of vast datasets that encapsulate the complexities of human behavior and society. My primary research objective is to develop tools to uncover and understand these intricate dynamics by analyzing large-scale, unstructured data. This interdisciplinary endeavor draws from my academic background in psychology from Peking University, coupled with a strong foundation in computer science acquired through coursework and independent research projects. 
+The ubiquity of the internet has enabled the collection of vast datasets that encapsulate the complexities of human behavior and society. My primary research objective is to develop tools to uncover and understand these intricate dynamics by analyzing large-scale, unstructured data. This interdisciplinary endeavor draws from my academic background in psychology from Peking University, coupled with a strong foundation in computer science acquired through coursework and 4 independent research projects. 
 
 
 
@@ -33,7 +33,7 @@ Hate speech can lead to real-world harm, including violence, discrimination, and
 
 ## Exploring the Relationship between Emotion and Audience Engagement 👍
 
-In a collaborative project supervised by [Prof. Gary Hsieh]() at UW, I explored the social engagement dynamics related to emotion sharing on social media platforms. We uncovered intriguing patterns through data scraping and statistical analysis, such as positive posts receiving more likes and negative posts generating more replies. A survey complemented these findings, shedding light on the underlying reasons for these trends. This project marked my first foray into extensive literature review and academic writing and has been submitted to CSCW 2024, with me as the first author.
+In a collaborative project supervised by [Prof. Gary Hsieh](https://faculty.washington.edu/garyhs/#research) at University of Washington, I explored the social engagement dynamics related to emotion sharing on social media platforms. We uncovered intriguing patterns through data scraping and statistical analysis, such as positive posts receiving more likes and negative posts generating more replies. A survey complemented these findings, shedding light on the underlying reasons for these trends. This project marked my first foray into extensive literature review and academic writing and has been submitted to CSCW 2024, with me as the first author.
 
 
 
