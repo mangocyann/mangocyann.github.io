@@ -13,9 +13,9 @@ The ubiquity of the internet has enabled the collection of vast datasets that en
 
 
 
-# Research Experience
+# Research Project
 ## Towards Understanding Depression through Music Preferences 🎵
-The prevalence of Mental Health disorders has been an escalating concern worldwide. I embarked on my journey in data science for mental health with a particular focus on music. I aimed to quantify and compare music preferences between individuals with and without depression, a task challenging to address through traditional laboratory experiments.
+The prevalence of Mental Health disorders has been an escalating concern worldwide. In this work, I aimed to quantify and compare music preferences between individuals with and without depression, a task challenging to address through traditional laboratory experiments.
 
 To accomplish this, I developed a methodology that examined music from musical, lyrical, and network perspectives. First, I scraped songs’ musical features such as danceability and acousticness through the Spotify API and conducted statistical analysis for them. Second, leveraging Latent Dirichlet Allocation (LDA) and Linguistic Inquiry and Word Count (LIWC), I compared the topic and language use of lyric differences between music favored by individuals diagnosed with and without depression. To understand this question above individual levels, I also conducted a Network Analysis applying community detection algorithms to examine the network relationships of these two groups. My result reveals a possible echo-chamber effect, where the musical choices of depressed individuals may inadvertently reinforce depressive moods. 
 
@@ -26,7 +26,7 @@ During the past few years, the COVID-19 pandemic also triggered a dramatic incre
 
 However, mental health apps, as a new category in the app market, lack solid user experience research, and usability evaluation. To address this gap, I developed a methodology to analyze user reviews of over 500 mental health apps from Google Play and App Store. Through machine learning techniques, including BERT-based classification, clustering, and topic modeling, I identified user concerns and perspectives, enhancing mental health app usability and effectiveness. This research has the potential to significantly contribute to improving mental health treatment.
 
-This work is adviced by [Prof. Talayeh Aledavood](https://talayeh.xyz/) at Aalto University
+This work is adviced by [Prof. Talayeh Aledavood](https://talayeh.xyz/) at Aalto University.
 
 ## BERT-Based Multi-task Approach for Violence Detection 💣
 Hate speech can lead to real-world harm, including violence, discrimination, and social division. Understanding its dynamics helps in creating safer online spaces, preventing offline harm, and enhancing platform accountability. In this context, my work, advised by [Prof. Keith Burghardt](https://www.kburg.co/) and [Prof. Kristina Lerman](https://www.isi.edu/people-lerman/) at USC, focuses on the developing violence detection tools and understanding the radicalization of violence. My work involved fine-tuning deep learning-based NLP models, such as BERT and Roberta, for violence detection. I also developed a novel multi-task architecture to address label disagreements between annotators and a multi-label classification approach for hate-speech-related labels. These innovations resulted in a state-of-the-art violence classifier and a hate-speech-related multi-label classifier, outperforming 20% than previous research using SVM and LSTM. My research has practical implications for creating safer online spaces and enhancing platform accountability, and it is currently being prepared for submission to NAACL'24, with me as the first author.
