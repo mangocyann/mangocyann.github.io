@@ -21,7 +21,7 @@ Overall, my technical skill set encompasses the following areas:
 
 ### MATLAB 🌟🌟
 - Features: Signal Processing, Image Processing
-- Applications: EEG Signal Processing
+- Applications: EEG Signal Processing, Data Visualization
 
 
 
