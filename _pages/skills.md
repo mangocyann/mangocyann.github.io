@@ -23,9 +23,7 @@ Overall, my technical skill set encompasses the following areas:
 - Features: Signal Processing, Image Processing
 - Applications: EEG Signal Processing
 
-### C 🌟
-- Features: Data Structure and Algorithm
-- Applications: Basic Coding
+
 
 
 
