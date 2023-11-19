@@ -14,7 +14,7 @@ The ubiquity of the internet has enabled the collection of vast datasets that en
 
 
 # Research Experience
-## Towards Understanding Depression through Music Preferences
+## Towards Understanding Depression through Music Preferences🎵
 The prevalence of Mental Health disorders has been an escalating concern worldwide. I embarked on my journey in data science for mental health under the guidance of Prof. Huan Liu from Arizona State University, with a particular focus on music. I aimed to quantify and compare music preferences between individuals with and without depression, a task challenging to address through traditional laboratory experiments.
 
 To accomplish this, I developed a methodology that examined music from musical, lyrical, and network perspectives. First, I scraped songs’ musical features such as danceability and acousticness through the Spotify API and conducted statistical analysis for them. Second, leveraging Latent Dirichlet Allocation (LDA) and Linguistic Inquiry and Word Count (LIWC), I compared the topic and language use of lyric differences between music favored by individuals diagnosed with and without depression. To understand this question above individual levels, I also conducted a Network Analysis applying community detection algorithms to examine the network relationships of these two groups. My result reveals a possible echo-chamber effect, where the musical choices of depressed individuals may inadvertently reinforce depressive moods. This work has been submitted to WWW’24 with me as the first author. 
