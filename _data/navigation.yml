@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /_publications/2009-10-01-paper-title-number-1.md
+    url: /_pages/publications.md
 
   - title: "CV"
     url: /files/Qihan Wang-CV.pdf
