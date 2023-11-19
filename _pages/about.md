@@ -11,6 +11,7 @@ I am  a recent [Peking University](https://english.pku.edu.cn/) graduate, and cu
 
 The ubiquity of the internet has enabled the collection of vast datasets that encapsulate the complexities of human behavior and society. My primary research objective is to develop tools to uncover and understand these intricate dynamics by analyzing large-scale, unstructured data. This interdisciplinary endeavor draws from my academic background in psychology from Peking University, coupled with a strong foundation in computer science acquired through coursework and 4 independent research projects. 
 
+During my academic journey, I have had the privilege of collaborating with esteemed professors, notably my past and current advisor,  [Prof. Huan Liu](https://www.public.asu.edu/~huanliu/) at Arizona State University, [Prof. Talayeh Aledavood](https://talayeh.xyz/) at Aalto University, [Prof. Keith Burghardt](https://www.kburg.co/) and [Prof. Kristina Lerman](https://www.isi.edu/people-lerman/) at University of Southern California and [Prof. Gary Hsieh](https://faculty.washington.edu/garyhs/#research) at University of Washington.
 
 
 # Research Project
