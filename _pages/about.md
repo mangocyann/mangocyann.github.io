@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am  a recent Peking University graduate, and currently a research assistant at Aalto University, Department of Computer Science. My research interests lie at the intersection of Natural Language Processing, Machine Learning, and Data Mining with mental health, behavioral, and societal applications. The ubiquity of the internet has enabled the collection of vast datasets that encapsulate the complexities of human behavior and society. My primary research objective is to uncover and understand these intricate dynamics by analyzing large-scale, unstructured data. This interdisciplinary endeavor draws from my academic background in psychology from Peking University, coupled with a strong foundation in computer science acquired through coursework and independent research projects. 
+I am  a recent Peking University graduate, and currently a research assistant at Aalto University, Department of Computer Science. My research interests lie at the intersection of Natural Language Processing, Machine Learning, and Data Mining with mental health, behavioral, and societal applications. 
+
+The ubiquity of the internet has enabled the collection of vast datasets that encapsulate the complexities of human behavior and society. My primary research objective is to uncover and understand these intricate dynamics by analyzing large-scale, unstructured data. This interdisciplinary endeavor draws from my academic background in psychology from Peking University, coupled with a strong foundation in computer science acquired through coursework and independent research projects. 
 
 
 A data-driven personal website
