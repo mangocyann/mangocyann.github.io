@@ -12,8 +12,8 @@ Actually, I have built solid math and coding skills through my coursework and pa
 Overall, my technical skill set encompasses the following areas:
 
 ### Python 🌟🌟🌟🌟🌟
-- Libraries: TensorFlow, PyTorch, NumPy, Pandas, Scikit-Learn, NetworkX, Matplotlib
-- Applications: Machine Learning, Natural Language Processing, Data Mining, Data Scraping, Network Analysis
+- Libraries: TensorFlow, PyTorch, NumPy, Pandas, Keras, Scikit-Learn, NetworkX, Matplotlib, NLTK, spaCy
+- Applications: Machine Learning, Deep Learning, Natural Language Processing, Data Mining, Data Scraping, Network Analysis, Game Development
 
 ### R 🌟🌟🌟🌟
 - Packages: ggplot2, dplyr, shiny, randomForest
